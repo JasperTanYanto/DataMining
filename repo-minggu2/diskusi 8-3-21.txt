@@ -1,0 +1,22 @@
+1.Berdasarkan pemahaman mengenai CRISP-DM, coba gambarkan tentang contoh sebuah kasus dari awal pemahaman kasus sampai dengan menyimpulkan bahwa kasus tersebut termasuk kategori yang bisa diselesaikan menggunakan model Data Mining (Tahap Business Understanding dan Data Understanding)
+Jawab:
+
+1.Pemahaman Proses Bisnis (Business Understanding)
+Problems:
+• Petrus Kanisius Ojong adalah Pendiri toko Gramedia.
+• Gramedia memiliki masalah besar karena rasio pendataan
+buku tiap judul hampir sama.
+• Petrus Kanisius Ojong memahami dan membuat pola dari profile buku dan jenis buku yang dijual.
+• Dengan pola tersebut, Petrus Kanisius Ojong bisa melakukan penempatan, kategori, dan memberi informasi kepada pembeli yang mencari buku tertentu secara tepat untuk menemukan buku yang dicari, sehingga akhirnya pembeli dapat mendapat buku yang di cari dengan cepat.
+Objective:
+• Menemukan pola dari profile buku dan jenis buku.
+
+2. Pemahaman Data (Data Understanding)
+• Untuk menyelesaikan masalah, manager mengambil data dari Sistem Informasi buku dari profile atau penulis buku.
+• Data-data dikumpulkan dari data profil penulis dan indeks judul,jenis dan daftar isi, dengan atribut
+seperti di bawah:
+1. profile penulis.
+2. judul dan jenis buku: pengetahuan atau informasi.
+3. tanggal terbit buku
+4. informasi penerbit.
+5. harga buku
