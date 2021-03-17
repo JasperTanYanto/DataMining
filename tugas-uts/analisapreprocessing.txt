@@ -1,0 +1,12 @@
+awal dari preprocessing dengan mengikuti langkah
+megimport library
+megimport dataset
+menghilangkan missing value
+encoding dataset
+membagi dataset
+scalling dataset
+dataeset memiliki 6 kolom (judul,penulis,penerbit,kategori,bahasa,harga)
+-kendala eror encoding
+-value convert
+data yang di buat diupload di github
+https://github.com/JasperTanYanto/DataMining/tree/Data
