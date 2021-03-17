@@ -1,0 +1,11 @@
+Judul	Penuliis	Penerbit	Kategori	Bahasa	Harga
+You Do You: Discovering Life through Experiments & Self-Awareness	Fellexandro Ruby	Gramedia Pustaka Utamaÿ		indonesia	108.800
+Kitab Kawin (kumpulan cerita)	Laksmi Pamuntjak	Gramedia Pustaka Utamaÿ	Remaja	indonesia	75.650
+Rindu (cover baru 2021)	Tere Liye	Gramedia Pustaka Utamaÿ	Drama	indonesia	75.650
+Pergi Cover Baru	Tere Liye	Gramedia Pustaka Utamaÿ	Remaja	indonesia	75.650
+Jalan Panjang Untuk Pulang	Agustinus Wibowo	Gramedia Pustaka Utamaÿ	Filosofi	indonesia	110.500
+Pembunuhan Di Rumah Miring (Murder In The Crooked House) Baru	Soji Shimada	Gramedia Pustaka Utamaÿ	Mistery-Thriller	indonesia	94.500
+Pemanggil Cahaya (A Conjuring Of Light)		Gramedia Pustaka Utamaÿ	Comic	indonesia	140.250
+Segi Tiga (Sebuah Novel Sapardi Djoko Damono)	Sapardi Djoko Damono	Gramedia Pustaka Utamaÿ	Remaja	indonesia	80.750
+The Last Crowd Edisi Bahasa Inggris Dari Kerumunan Terakhir	Okky Puspa Madasari	Gramedia Pustaka Utamaÿ	Fiksi	indonesia	119.000
+					
