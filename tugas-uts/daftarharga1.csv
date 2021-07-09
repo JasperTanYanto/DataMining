@@ -1,0 +1,34 @@
+ID,Komoditas(Rp),harga naik,predikat,Kenaikan Harga,"harga awal
+",Purchased
+1,Beras,yes,low,200,11500,0
+2,Beras Kualitas Bawah I (kg),no,low,0,10250,1
+3,Beras Kualitas Bawah II (kg),yes,low,100,10250,0
+4,Beras Kualitas Medium I (kg),no,low,0,12000,1
+5,Beras Kualitas Medium II (kg),no,low,0,11250,1
+6,Beras Kualitas Super I (kg),no,low,0,13000,1
+7,Beras Kualitas Super II (kg),no,low,0,12250,1
+8,Daging Ayam,yes,low,300,34500,0
+9,Daging Ayam Ras Segar (kg),yes,medium,1000,34500,0
+10,Daging Sapi,yes,high,5000,140000,0
+11,Daging Sapi Kualitas 1 (kg),yes,high,5000,140000,0
+12,Daging Sapi Kualitas 2 (kg),yes,high,5000,140000,0
+13,Telur Ayam,yes,low,500,23000,0
+14,"Telur Ayam Ras Segar
+  (kg)",yes,low,200,23000,1
+15,Bawang Merah,yes,medium,1500,31000,1
+16,Bawang Merah Ukuran Sedang (kg),yes,medium,2000,31000,0
+17,Bawang Putih,no,low,0,29000,1
+18,Bawang Putih Ukuran Sedang (kg),no,low,0,29000,0
+19,Cabai Merah,yes,medium,1500,25000,1
+20,Cabai Merah Besar (kg),yes,medium,1500,27500,1
+21,Cabai Merah Keriting (kg),yes,low,400,22500,1
+22,Cabai Rawit,yes,low,400,35000,0
+23,Cabai Rawit Hijau (kg),no,low,0,27500,0
+24,Cabai Rawit Merah (kg),yes,low,600,42500,0
+25,Minyak Goreng,yes,low,400,14900,0
+26,Minyak Goreng Curah (kg),yes,low,500,15000,1
+27,Minyak Goreng Kemasan Bermerk 1 (kg),yes,low,600,15000,1
+28,Minyak Goreng Kemasan Bermerk 2 (kg),yes,medium,1000,14750,1
+29,Gula Pasir,yes,low,200,13000,1
+30,Gula Pasir Kualitas Premium (kg),no,low,0,13500,1
+31,Gula Pasir Lokal (kg),no,low,0,12500,0
